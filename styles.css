@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(16, 228, 27);    
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    color: rgb(247, 12, 12);
+}
+
+body {
+    color: rgb(19, 20, 20);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+fieldset {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+
